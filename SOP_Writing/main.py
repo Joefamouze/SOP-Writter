@@ -1,7 +1,7 @@
 import os
 import openai
 
-openai.api_key = "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"
+openai.api_key = ""
 
 # def input_param():
 #     input_university_name = input("Enter Univeristy Full Name: ")
